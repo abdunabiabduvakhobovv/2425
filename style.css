@@ -1,0 +1,66 @@
+h1{
+    color: rgb(186, 163, 209);
+    background-color: darkslateblue;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+em{
+    color: red;
+}
+
+h2{
+    color: green;
+}
+
+h4{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+
+input{
+    width: 1000px;
+}
+
+label{
+    color: green;
+}
+
+button{
+    background-color: rgb(141, 141, 232);
+    color: white;
+}
+ *{
+    margin: ;
+    padding: ;
+    box-sizing: border-box;
+ }
+
+ table{
+    border: 2px solid;
+    width: ; 1000px;
+ }
+
+ td,th{
+    border: 2px solid;
+    text-align: center;
+ }
+
+.green{
+    background-color: green;
+    color: white;
+}
+.blua{
+    background-color: blue;
+    color: white;
+}
+.qizil{
+    background-color: red;
+    color: white;
+}
+.qora{
+    background-color: black;
+    color: white;
+}
